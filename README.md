@@ -1,5 +1,9 @@
 # GTA VI Twitch CCU forecast — `gta6-twitch-ccu-forecast-01`
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Kikuk00/makefun-gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Kikuk00/makefun-gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 Forecasts how many people watch Grand Theft Auto VI live on Twitch in each
 hour of its release day (2026-11-19 UTC, hours 2–24), as five quantiles per
 hour, from the first hour's print plus the case's comparable past launches.
@@ -62,3 +66,7 @@ runs are byte-identical, and runtime is ~0.1 s per case (limit 8 s).
 - `LICENSE` — MIT (kit starter license text)
 - `backtest.py` — leave-one-out backtest against the entry code
 - `results.txt` — backtest output + practice validation summary
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=wmk9f4s6&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
